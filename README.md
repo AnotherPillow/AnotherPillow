@@ -4,6 +4,8 @@
 <a href="http://pillow.rocks" target="_blank"> website</a>  |
 <a href="https://discordid.netlify.app/?id=718881941465596026" target="_blank">discord</a>
 
+![profile views](https://komarev.com/ghpvc/?username=anotherpillow&color=blueviolet)
+
 <details>
 <summary><strong>github stats</strong></summary>
 
