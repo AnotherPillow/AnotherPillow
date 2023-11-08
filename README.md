@@ -10,7 +10,8 @@
 <summary><strong>github stats</strong></summary>
 
 #### streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnotherPillow&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-one-topaz.vercel.app?user=AnotherPillow&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 
 #### metrics
 ![Metrics](https://github.com/AnotherPillow/AnotherPillow/blob/master/github-metrics.svg)
